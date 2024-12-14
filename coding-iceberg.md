@@ -105,6 +105,15 @@ Sort to top, all time.
 - [Fedora](https://fedoraproject.org/)
 - [Min](https://www.linuxmint.com/)
 
+### Markup, Typesetting
+
+- [Markdown](https://en.wikipedia.org/wiki/Markdown)
+- [Mermaid](https://mermaid.js.org/)
+- [Pikchr](https://pikchr.org/home/doc/trunk/homepage.md)
+- [Svgbob](https://ivanceras.github.io/svgbob/)
+- [LaTeX](https://www.latex-project.org/get/)
+- [Typst](https://typst.app/)
+
 ## Languages
 
 Excluding C, C++, Java, Python.
