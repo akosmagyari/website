@@ -1,31 +1,37 @@
-# Define directories
-SOURCE_DIR = src
-HTML_DIR = html
-DEST_DIR = ../akosmagyari.github.io  # Destination directory
+# Define paths
+WEBSITE_SRC = src
+WEBSITE_HTML = html
+GITHUB_HTML = ../akosmagyari.github.io
 
-# Find all Markdown files in the source directory
-MD_FILES = $(wildcard $(SOURCE_DIR)/*.md)
+# Define pandoc command
+PANDOC = pandoc
 
-# Generate corresponding HTML file names
-HTML_FILES = $(MD_FILES:$(SOURCE_DIR)/%.md=$(HTML_DIR)/%.html)
+# Find markdown and html files
+MARKDOWN_FILES = $(wildcard $(WEBSITE_SRC)/*.md)
+HTML_FILES = $(patsubst $(WEBSITE_SRC)/%.md,$(WEBSITE_HTML)/%.html,$(MARKDOWN_FILES))
+
+.PHONY: all clean convert modify_links deploy
 
 # Default target
-all: $(HTML_FILES) copy
+all: clean convert modify_links deploy
 
-# Rule to convert Markdown to HTML
-$(HTML_DIR)/%.html: $(SOURCE_DIR)/%.md
-	@mkdir -p $(HTML_DIR)  # Create HTML directory if it doesn't exist
-	pandoc $< -o $@
-
-# Target to copy HTML files to the destination directory
-copy: $(HTML_FILES)
-	@mkdir -p $(DEST_DIR)  # Create destination directory if it doesn't exist
-	cp $(HTML_FILES) $(DEST_DIR)
-
-# Clean target to remove old HTML files
+# Clean target: remove all files from html and html files from akosmagyari.github.io
 clean:
-	rm -f $(HTML_DIR)/*.html
-	rm -f $(DEST_DIR)/*.html  # Optionally remove copied HTML files
+	rm -f $(WEBSITE_HTML)/*
+	rm -f $(GITHUB_HTML)/*.html
 
-# Phony targets
-.PHONY: all clean copy
+# Convert markdown files to html using pandoc
+convert: $(HTML_FILES)
+
+$(WEBSITE_HTML)/%.html: $(WEBSITE_SRC)/%.md
+	$(PANDOC) $< -o $@
+
+# Modify links in newly created html files
+modify_links:
+	@for file in $(HTML_FILES); do \
+		sed -i 's/\.md\"/\.html\"/g' $$file; \
+	done
+
+# Copy html files to akosmagyari.github.io
+deploy:
+	cp $(WEBSITE_HTML)/*.html $(GITHUB_HTML)/
