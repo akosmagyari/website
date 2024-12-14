@@ -115,7 +115,7 @@ Sort to top, all time.
 - [Mermaid](https://mermaid.js.org/)
 - [Pikchr](https://pikchr.org/home/doc/trunk/homepage.md)
 - [Svgbob](https://ivanceras.github.io/svgbob/)
-- [LaTeX](https://www.latex-project.org/get/)
+- [LaTeX](https://www.latex-project.org/)
 - [Typst](https://typst.app/)
 
 ### Package Managers
