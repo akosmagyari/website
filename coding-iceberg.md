@@ -119,6 +119,11 @@ Sort to top, all time.
 - [Scoop](https://scoop.sh/#/)
 - [Homebrew](https://brew.sh/)
 
+## Specifications
+
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [Semantic Versioning](https://semver.org/)
+
 ## Languages
 
 Excluding C, C++, Java, Python.
