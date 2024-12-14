@@ -114,6 +114,11 @@ Sort to top, all time.
 - [LaTeX](https://www.latex-project.org/get/)
 - [Typst](https://typst.app/)
 
+### Package Managers
+
+- [Scoop](https://scoop.sh/#/)
+- [Homebrew](https://brew.sh/)
+
 ## Languages
 
 Excluding C, C++, Java, Python.
