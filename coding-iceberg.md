@@ -121,7 +121,7 @@ Excluding C, C++, Java, Python.
 
 ## Content Creators
 
-- [James Scholz](https://jvscholz.com/) ([YouTube](https://www.youtube.com/@jvscholz/videos)), ([alt. YouTube](https://www.youtube.com/@JamesScholz))
+- [James Scholz](https://jvscholz.com/) ([YouTube](https://www.youtube.com/@jvscholz/videos), [alt. YouTube](https://www.youtube.com/@JamesScholz))
 - [No Boilerplate](https://www.youtube.com/@NoBoilerplate)
 - [optimum](https://www.youtube.com/@optimumtech/videos)
 - [Scott Yu-Jan](https://www.youtube.com/@ScottYuJan/videos)
