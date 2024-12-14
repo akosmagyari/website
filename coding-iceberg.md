@@ -148,7 +148,7 @@ Excluding C, C++, Java, Python.
 - [N-O-D-E](https://n-o-d-e.net/) ([YouTube](https://www.youtube.com/@NODEtv))
 - [By Default](https://www.youtube.com/@VideosByDefault)
 - [Freya Holmér](https://www.youtube.com/@acegikmo)
-- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+- [3Blue1Brown](https://www.3blue1brown.com/) ([YouTube](https://www.youtube.com/@3blue1brown))
 - [Programmers Are Also Human](https://www.youtube.com/@programmersarealsohuman5909/community)
 
 ## Typefaces
