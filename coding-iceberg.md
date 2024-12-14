@@ -118,6 +118,7 @@ Excluding C, C++, Java, Python.
 - [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language))
 - [Julia](https://julialang.org/)
 - [Prolog](https://en.wikipedia.org/wiki/Prolog)
+- [Lua](https://www.lua.org/)
 
 ## Content Creators
 
