@@ -128,6 +128,10 @@ Sort to top, all time.
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [Semantic Versioning](https://semver.org/)
 
+## Licensing
+
+- [Choose a Licence](https://choosealicense.com/)
+
 ## Languages
 
 Excluding C, C++, Java, Python.
