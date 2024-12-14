@@ -106,7 +106,7 @@ Sort to top, all time.
 - [Arch](https://archlinux.org/)
 - [Pop!_OS](https://pop.system76.com/)
 - [Fedora](https://fedoraproject.org/)
-- [Min](https://www.linuxmint.com/)
+- [Mint](https://www.linuxmint.com/)
 
 ### Markup, Typesetting
 
