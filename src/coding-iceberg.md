@@ -1,5 +1,7 @@
 # Coding Iceberg
 
+An opiniated list about nice things in tech.
+
 ## IDEs
 
 - [Vim](https://www.vim.org/)
