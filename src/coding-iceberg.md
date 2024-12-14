@@ -110,6 +110,7 @@ Sort to top, all time.
 
 ### Markup, Typesetting
 
+- [Pandoc](https://pandoc.org/)
 - [Markdown](https://en.wikipedia.org/wiki/Markdown)
 - [Org Mode](https://orgmode.org/)
 - [Mermaid](https://mermaid.js.org/)
