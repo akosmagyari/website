@@ -145,6 +145,7 @@ Excluding C, C++, Java, Python.
 
 ## Content Creators
 
+- [xkcd](https://xkcd.com/)
 - [James Scholz](https://jvscholz.com/) ([YouTube](https://www.youtube.com/@jvscholz/videos), [alt. YouTube](https://www.youtube.com/@JamesScholz))
 - [No Boilerplate](https://www.youtube.com/@NoBoilerplate)
 - [optimum](https://www.youtube.com/@optimumtech/videos)
