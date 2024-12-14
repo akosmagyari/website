@@ -1,5 +1,5 @@
 # Define directories
-SOURCE_DIR = source
+SOURCE_DIR = src
 HTML_DIR = html
 
 # Find all Markdown files in the source directory
