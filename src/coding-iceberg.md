@@ -133,6 +133,13 @@ Sort to top, all time.
 
 - [Choose a Licence](https://choosealicense.com/)
 
+## Web Design
+
+- [CSS Zen Garden](https://csszengarden.com/)
+- [Motherfucking Website](https://motherfuckingwebsite.com/)
+- [Better Motherfucking Website](http://bettermotherfuckingwebsite.com/)
+- [The Best Motherfucking Website](https://thebestmotherfucking.website/)
+
 ## Languages
 
 Excluding C, C++, Java, Python.
