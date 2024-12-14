@@ -151,6 +151,25 @@ Excluding C, C++, Java, Python.
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 - [Programmers Are Also Human](https://www.youtube.com/@programmersarealsohuman5909/community)
 
+## Typefaces
+
+All fonts need to be patched with [Nerd Fonts](https://www.nerdfonts.com/).
+
+### Open-source
+
+- [Iosevka](https://typeof.net/Iosevka/)
+- [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+- [Martian Mono](https://evilmartians.com/products/martian-mono)
+
+### Freeware
+
+- [Input](https://input.djr.com/)
+
+### Payware
+
+- [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)
+- [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/)
+
 ## Things I Like
 
 (ezekkel prolly be tudsz vágódni hardcoreabb tagoknál)
