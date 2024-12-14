@@ -2,7 +2,7 @@
 
 ## IDEs
 
-- [Vim](vimhttps://www.vim.org/)
+- [Vim](https://www.vim.org/)
 - [Neovim](https://neovim.io/)
 - [Lazyim](https://www.lazyvim.org/)
 - [NvChad](https://nvchad.com/)
