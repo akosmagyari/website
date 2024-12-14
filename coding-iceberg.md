@@ -111,6 +111,7 @@ Sort to top, all time.
 ### Markup, Typesetting
 
 - [Markdown](https://en.wikipedia.org/wiki/Markdown)
+- [Org Mode](https://orgmode.org/)
 - [Mermaid](https://mermaid.js.org/)
 - [Pikchr](https://pikchr.org/home/doc/trunk/homepage.md)
 - [Svgbob](https://ivanceras.github.io/svgbob/)
