@@ -37,27 +37,27 @@ Sort to top, all time.
 
 ## History of Computer Programming
 
-### Antikythera Mechanism [BC)
+### Antikythera Mechanism (BC)
 
 - [Abtujythera mechanism](https://en.wikipedia.org/wiki/Antikythera_mechanism)
 
-### Analytical Engine [1800-1900)
+### Analytical Engine (1800-1900)
 
 - [Analytical engine](https://en.wikipedia.org/wiki/Analytical_engine)
 - [Charles Babbage](https://en.wikipedia.org/wiki/Charles_Babbage)
 - [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace)
 
-### Turing Machine [1930-1950)
+### Turing Machine (1930-1950)
 
 - [Turing machine](https://en.wikipedia.org/wiki/Turing_machine)
 - [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)
 
-### Zuse [1939-1950)
+### Zuse (1939-1950)
 
 - [Z3](https://en.wikipedia.org/wiki/Z3_(computer))
 - [Konrad Zuse](https://en.wikipedia.org/wiki/Konrad_Zuse)
 
-### ENIAC [1945-1955)
+### ENIAC (1945-1955)
 
 - [ENIAC](https://en.wikipedia.org/wiki/ENIAC)
 - [EDVAC](https://en.wikipedia.org/wiki/EDVAC)
