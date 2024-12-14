@@ -42,7 +42,7 @@ Sort to top, all time.
 
 ### Antikythera Mechanism (BC)
 
-- [Abtujythera mechanism](https://en.wikipedia.org/wiki/Antikythera_mechanism)
+- [Antikythera mechanism](https://en.wikipedia.org/wiki/Antikythera_mechanism)
 
 ### Analytical Engine (1800-1900)
 
