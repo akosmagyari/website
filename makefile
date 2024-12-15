@@ -19,10 +19,10 @@ all: clean convert modify_links add_boilerplate deploy
 clean:
 	rm -f $(WEBSITE_HTML)/*
 	rm -f $(GITHUB_HTML)/*.html
+	rm -f $(GITHUB_HTML)/stylesheet.css
 
 # Convert markdown files to html using pandoc
 convert: $(HTML_FILES)
-
 $(WEBSITE_HTML)/%.html: $(WEBSITE_SRC)/%.md
 	$(PANDOC) $< -o $@
 
@@ -45,6 +45,7 @@ add_boilerplate:
 		sed -i "s|<title>.*</title>|<title>$$filename</title>|" $$file; \
 	done
 
-# Copy html files to akosmagyari.github.io
+# Copy html files and stylesheet to akosmagyari.github.io
 deploy:
 	cp $(WEBSITE_HTML)/*.html $(GITHUB_HTML)/
+	cp $(WEBSITE_SRC)/stylesheet.css $(GITHUB_HTML)/
